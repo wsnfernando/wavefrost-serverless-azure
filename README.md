@@ -1,1 +1,2 @@
-# wavefrost-serverless-azure
+# wavefrost-serverless-azure  
+Authored Shehan Fernando
