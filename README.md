@@ -1,0 +1,1 @@
+# wavefrost-serverless-azure
